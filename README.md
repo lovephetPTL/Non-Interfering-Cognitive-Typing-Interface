@@ -78,3 +78,28 @@ It exists to articulate a boundary.
 
 Because some minds do not need faster tools.
 They need quieter ones.
+
+
+A dual-mode bio-cognitive keyboard framework that eliminates visual fatigue by utilizing intrinsic ocular light (Eigengrau) and direct semantic concept streaming.
+
+# Luminescent Bio-Cognitive Keyboard Framework
+
+A conceptual hardware-software interface designed to protect human cognitive rhythm and eliminate visual fatigue by transitioning the typing process from physical displays to internal sensory states.
+
+---
+
+## Architecture & Core Modes
+
+### Mode 1: Virtual Guided Luminescence (Eigengrau Visual Anchor)
+* **Mechanism:** Upon eyelid closure, the interface adapts to the brain's natural visual state in darkness—utilizing **Eigengrau** (intrinsic gray light/phosphenes) as a dark-mode background. It projects a soft, non-intrusive luminescent virtual layout to serve as a visual guide.
+* **AI Integration:** As the user focuses on individual characters mentally, the integrated AI acts as a *Visual Form Generator*, reconstructing and rendering words within the internal visual field without causing eye strain.
+
+### Mode 2: Pure Concept Semantic Stream (Direct Thought-to-Text)
+* **Mechanism:** Removes the virtual keyboard layout entirely. The user remains in a state of deep physical relaxation (e.g., reclining or resting), allowing thoughts to stream naturally without external distractions.
+* **AI Integration:** When the user conceives complete words or semantic ideas, the AI functions as a *Semantic Text Constructor*. It decodes the internal cognitive stream directly into sentences, capturing the authentic pace of human thought without prediction or interference.
+
+---
+
+## System Position
+
+This framework redefines the role of AI in text input. The AI does not predict, autocomplete, or dictate human intention. It operates strictly as a neutral bridge—rendering characters in Mode 1 and converting semantic concepts in Mode 2—preserving the user's authentic cognitive flow.
